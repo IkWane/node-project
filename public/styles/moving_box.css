@@ -1,0 +1,23 @@
+.moving_box {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(173, 109, 233);
+    position: absolute;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+span {
+    vertical-align: middle;
+    display: inline-block;
+    line-height: normal;
+}
+
+.hint_typewriter {
+    text-decoration-line: none;
+}
+
+.hint_text {
+    text-decoration-line: underline;
+}

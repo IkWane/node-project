@@ -1,0 +1,16 @@
+{
+  "name": "cours-tim",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "websockets": "^0.2.0",
+    "ws": "^8.18.0"
+  }
+}
